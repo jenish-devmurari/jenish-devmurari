@@ -89,7 +89,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-  <a href="https://github.com/jenish-devmurari/jenish-devmurari/blob/main/assert/Jenish-Devmurari-Resume.pdf" download>
+  <a href="https://github.com/jenish-devmurari/jenish-devmurari/blob/main/assets/Jenish-Devmurari-Resume.pdf" download>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/File_Icons_Material_Resume.svg" alt="Download Resume" width="40" height="40" style="margin-right: 10px;"/> 
     <b>Download My Resume</b>
   </a>
