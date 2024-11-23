@@ -73,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px"/> 
   </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo_2023.png" alt="openai" width="40" height="40" style="margin-right: 10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40" style="margin-right: 10px"/>
   </a>
 </p>
 
@@ -90,7 +90,6 @@
 <h3 align="left">Resume:</h3>
 <p align="left">
   <a href="https://github.com/jenish-devmurari/jenish-devmurari/blob/main/assets/Jenish-Devmurari-Resume.pdf" download>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/File_Icons_Material_Resume.svg" alt="Download Resume" width="40" height="40" style="margin-right: 10px;"/> 
     <b>Download My Resume</b>
   </a>
 </p>
